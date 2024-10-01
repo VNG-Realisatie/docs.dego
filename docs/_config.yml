@@ -29,7 +29,7 @@ plugins:
 
 remote_theme: VNG-Realisatie/jekyll-theme-vng-realisatie
 
-github: VNG-Realisatie/docs.dego
+github: michielverhoef/docs.dego
 
 theme: jekyll-theme-time-machine
 
