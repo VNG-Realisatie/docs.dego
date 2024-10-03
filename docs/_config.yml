@@ -23,6 +23,27 @@ nav:
       - title: SourceCode
         path: /sourcecode  
 
+apinav:
+  - title: API Documentatie
+    subnav:
+      - title: Home
+        path: /
+      - title: API Energie data
+        path: /docs 
+      - title: API BOVAG
+        path: /over  
+      - title: API SBICODES
+        path: /contact
+      - title: API RDW
+        path: /sourcecode  
+      - title: WFS - energie
+        path: /over  
+      - title: WFS - cbs
+        path: /contact
+      - title: Vector tiles
+        path: /sourcecode  
+
+
 plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
