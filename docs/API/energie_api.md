@@ -1,8 +1,7 @@
 ---
-title: "API energie data "
-path: "/docs/api/energie"
+layout: dego-page-with-side-nav
+title: API energie data
 ---
-
 Alle energie data is per verblijfsobject op te vragen via de volgende API :
 
     https://ds.vboenergie.commondatafactory.nl/list/?match-gemeentecode=GM1680
