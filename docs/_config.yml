@@ -29,17 +29,17 @@ apinav:
       - title: Home
         path: /
       - title: API Energie data
-        path: /api/energie_api 
+        path: /API/energie_api 
       - title: API BOVAG
-        path: /api/bovag  
+        path: /API/bovag  
       - title: API SBICODES
-        path: /api/sbicodes
+        path: /API/sbicodes
       - title: API RDW
-        path: /api/rdw 
+        path: /API/rdw 
       - title: WFS - energie
-        path: /api/energie_wfs  
+        path: /API/energie_wfs  
       - title: WFS - cbs
-        path: /api/cbs_wfs
+        path: /API/cbs_wfs
       - title: Vector tiles
         path: /  
 
