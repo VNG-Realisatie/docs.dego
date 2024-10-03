@@ -29,19 +29,19 @@ apinav:
       - title: Home
         path: /
       - title: API Energie data
-        path: /docs 
+        path: /api/energie_api 
       - title: API BOVAG
-        path: /over  
+        path: /api/bovag  
       - title: API SBICODES
-        path: /contact
+        path: /api/sbicodes
       - title: API RDW
-        path: /sourcecode  
+        path: /api/rdw 
       - title: WFS - energie
-        path: /over  
+        path: /api/energie_wfs  
       - title: WFS - cbs
-        path: /contact
+        path: /api/cbs_wfs
       - title: Vector tiles
-        path: /sourcecode  
+        path: /  
 
 
 plugins:
