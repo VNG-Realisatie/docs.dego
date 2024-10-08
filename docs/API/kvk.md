@@ -1,6 +1,6 @@
 ---
 title: "KVK download beschrijving "
-path: "/docs/kvk"
+layout: dego-page-with-side-nav
 ---
 
 
