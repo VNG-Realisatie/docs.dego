@@ -1,8 +1,7 @@
 ---
-title: "BOVAG API"
-path: "/docs/api/bovag"
+layout: dego-page-with-side-nav
+title: API energie data
 ---
-
 Alle energie BOVAG geregistreerde bedrijven zijn op te vragen via de volgende API :
 
 
