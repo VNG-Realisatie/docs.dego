@@ -1,8 +1,8 @@
 ---
-title: "WFS CBS data"
-path: "/docs/energie/wfscbs"
+title: WFS CBS data
+layout: dego-page-with-side-nav
 ---
-
+Alle e
 Omdat een WFS zo handig is, en GIS-programma's al veel worden gebruikt in
 gemeentes, willen wij u onze data ook aanbieden in dit formaat. Hierdoor kunt u
 bijvoorbeeld data die alleen in uw gemeente beschikbaar is eenvoudig toevoegen,
