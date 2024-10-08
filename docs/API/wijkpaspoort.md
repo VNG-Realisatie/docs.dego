@@ -1,6 +1,6 @@
 ---
 title: "Wijkpaspoort download beschrijving "
-path: "/docs/wijkpaspoort"
+layout: dego-page-with-side-nav
 ---
 
 
