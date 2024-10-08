@@ -1,6 +1,6 @@
 ---
 title: "API SBI codes"
-path: "/docs/api/sbicodes"
+layout: dego-page-with-side-nav
 ---
 
 Alle Standaard Bedrijfs Indeling codes (SBIcodes) zijn op te vragen via de volgende API:
