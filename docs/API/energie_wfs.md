@@ -1,6 +1,6 @@
 ---
-title: "WFS Energietransitie"
-path: "/docs/energie/wfs"
+title: WFS Energietransitie
+layout: dego-page-with-side-nav
 ---
 
 Omdat een WFS zo handig is, en GIS-programma's al veel worden gebruikt in
