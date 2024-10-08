@@ -1,6 +1,6 @@
 ---
 title: "API Warmte data "
-path: "/docs/api/woningvoorraad"
+layout: dego-page-with-side-nav
 ---
 
 Alle energie data is per verblijfsobject op te vragen via de volgende API :
