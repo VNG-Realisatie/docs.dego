@@ -48,7 +48,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
 
-remote_theme: michielverhoef/jekyll-theme-vng-realisatie
+remote_theme: michielverhoef/jekyll-theme-vngrealisatie-kcdenm
 
 github: michielverhoef/docs.dego
 
