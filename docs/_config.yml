@@ -41,7 +41,7 @@ apinav:
       - title: WFS - cbs
         path: /API/cbs_wfs
       - title: Vector tiles
-        path: /  
+        path: /API/vt  
 
 
 plugins:
