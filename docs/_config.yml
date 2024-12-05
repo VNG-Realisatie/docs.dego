@@ -14,7 +14,9 @@ nav:
     subnav:
       - title: Home
         path: /
-      - title: Documentatie
+      - title: Themas
+        path: /docs
+      - title: API Documentatie
         path: /docs 
       - title: Over CDF
         path: /over  
