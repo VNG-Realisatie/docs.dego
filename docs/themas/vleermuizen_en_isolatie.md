@@ -31,7 +31,7 @@ De tijdelijke regeling is van toepassing op woonkernen. Zowel bedrijventerreinen
 
 
 ### Verantwoording 
-Het initiële concept voor deze kaartlagen komen van koplopergemeente Maasdriel. Het ontwikkelen en testen is uitgevoerd door VNG Realisatie , gemeente Maasdriel, gemeente West Maas en Waal, Zevenaar Bloemendaal, Alkmaar, Landsmeer,  Amstelveen, Borger-Odoorn.nl.
+Het initiële concept voor deze kaartlagen komen van koplopergemeente Maasdriel. Het ontwikkelen en testen is uitgevoerd door VNG Realisatie , gemeente Maasdriel, gemeente West Maas en Waal, Zevenaar, Bloemendaal, Huizen, Alkmaar, Landsmeer,  Amstelveen, Borger-Odoorn.
 
 Bronnen bij het ontwikkelen van de kaartlagen zijn geweest: de concept en definitieve handleiding, Vragen van woningeigenaren,  Nationaal Isolatieprogramma,  Home,  [Volkshuisvesting Nederland](https://www.volkshuisvestingnederland.nl/onderwerpen/nationaal-isolatieprogramma/landelijke-aanpak-natuurvriendelijk-isoleren/veelgestelde-vragen/vragen-van-woningeigenaren).
 
