@@ -31,8 +31,8 @@ De tijdelijke regeling is van toepassing op woonkernen. Zowel bedrijventerreinen
 
 
 ### Verantwoording 
-Uitgangspunt bij het ontwikkelen van deze kaartlagen zijn geweest: de concept en definitieve handleiding, Vragen van woningeigenaren | Nationaal Isolatieprogramma | Home | [Volkshuisvesting Nederland](https://www.volkshuisvestingnederland.nl/onderwerpen/nationaal-isolatieprogramma/landelijke-aanpak-natuurvriendelijk-isoleren/veelgestelde-vragen/vragen-van-woningeigenaren).
+Uitgangspunt bij het ontwikkelen van deze kaartlagen zijn geweest: de concept en definitieve handleiding, Vragen van woningeigenaren,  Nationaal Isolatieprogramma,  Home,  [Volkshuisvesting Nederland](https://www.volkshuisvestingnederland.nl/onderwerpen/nationaal-isolatieprogramma/landelijke-aanpak-natuurvriendelijk-isoleren/veelgestelde-vragen/vragen-van-woningeigenaren).
 
-De regeling zelf vind je hier: Staatscourant 2023, 32727 | Overheid.nl > [Officiële bekendmakingen](https://zoek.officielebekendmakingen.nl/stcrt-2023-32727.html)
+De regeling zelf vind je hier: Staatscourant 2023, 32727 of [Officiële bekendmakingen op overheid.nl](https://zoek.officielebekendmakingen.nl/stcrt-2023-32727.html)
 
-De recente wijziging in deze vind je: Staatscourant 2024, 20409 | Overheid.nl > [Officiële bekendmakingen](https://zoek.officielebekendmakingen.nl/stcrt-2024-20409.html)
+De recente wijziging in deze vind je: Staatscourant 2024, 20409 of [Officiële bekendmakingen op overheid.nl](https://zoek.officielebekendmakingen.nl/stcrt-2024-20409.html)
