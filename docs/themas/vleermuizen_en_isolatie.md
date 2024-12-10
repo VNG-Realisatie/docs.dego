@@ -4,7 +4,7 @@ layout: dego-page-with-side-nav
 ---
 # Vleermuis compensatieopgave (NVI)
 
-Deze datadienst is ontwikkeld als uitbreiding van de datavoorziening energietransitie gebouwde omgeving (DEGO, dego.vng.nl) en levert kaarten die helpen de compensatie gebieden in kaart te brengen en de verantwoording vereenvoudigen. Deze gebruikersdocumentatie geeft meer achtergrond over de compensatie opgave NVI, een introductievideo, hoe ondersteuning te krijgen. Daarnaast is er een functionele documentatie en verantwoording.
+Deze datadienst is ontwikkeld als uitbreiding van de datavoorziening energietransitie gebouwde omgeving (DEGO, dego.vng.nl) en levert kaarten die helpen de compensatie gebieden in kaart te brengen en de verantwoording vereenvoudigen. Deze gebruikersdocumentatie geeft meer achtergrond over de compensatie opgave NVI, en hoe ondersteuning te krijgen. Daarnaast is er een functionele documentatie en verantwoording.
 
 ### Vleermuis Compensatieopgave NVI
 “Het realiseren van alternatieve verblijven voor vleermuizen is een voorwaarde voor de [landelijke aanpak natuurvriendelijk isoleren (NVI)](https://vng.nl/nieuws/tijdelijke-landelijke-aanpak-voor-natuurvriendelijk-isoleren). Gemeenten hebben een belangrijke rol in deze compensatieopgave. Daardoor mogen particuliere woningeigenaren onder voorwaarden weer isoleren. Om gemeenten bij het vinden van geschikte locaties te ondersteunen worden deze kaartlagen aangeboden.
@@ -31,8 +31,16 @@ De tijdelijke regeling is van toepassing op woonkernen. Zowel bedrijventerreinen
 
 
 ### Verantwoording 
-Uitgangspunt bij het ontwikkelen van deze kaartlagen zijn geweest: de concept en definitieve handleiding, Vragen van woningeigenaren,  Nationaal Isolatieprogramma,  Home,  [Volkshuisvesting Nederland](https://www.volkshuisvestingnederland.nl/onderwerpen/nationaal-isolatieprogramma/landelijke-aanpak-natuurvriendelijk-isoleren/veelgestelde-vragen/vragen-van-woningeigenaren).
+Het initiële concept voor deze kaartlagen komen van koplopergemeente Maasdriel. De  kaartlagen zijn gezamenlijk ontwikkeld en getest door  VNG Realisatie, gemeente Maasdriel,  Landsmeer, Amstelveen, Alkmaar, 
+
+Bronnen bij het ontwikkelen van de kaartlagen zijn geweest: de concept en definitieve handleiding, Vragen van woningeigenaren,  Nationaal Isolatieprogramma,  Home,  [Volkshuisvesting Nederland](https://www.volkshuisvestingnederland.nl/onderwerpen/nationaal-isolatieprogramma/landelijke-aanpak-natuurvriendelijk-isoleren/veelgestelde-vragen/vragen-van-woningeigenaren).
 
 De regeling zelf vind je hier: Staatscourant 2023, 32727 of [Officiële bekendmakingen op overheid.nl](https://zoek.officielebekendmakingen.nl/stcrt-2023-32727.html)
 
 De recente wijziging in deze vind je: Staatscourant 2024, 20409 of [Officiële bekendmakingen op overheid.nl](https://zoek.officielebekendmakingen.nl/stcrt-2024-20409.html)
+
+Er is gekozen om CBS woonkernen en een bijbehorende bufferzones, rekening houdend met een uitvlieg naar buitengebied niet te visualiseren omdat deze in de definitieve handleiding niet langer genoemd word als een criterium voor optimale plaatsing van vpv’s.
+
+De visualisatie van koopwoningen in de kaartlaag compensatiegebieden is op het oog ontworpen. Overduidelijke gebieden met veel huurwoningen willen we uitsluiten. >80% koopwoningen selecteert de gebieden waar er dus maar 20% huur is. Daarbinnen werken we met gradaties van 80-100 % om daarbinnen te schakeren. Naar aanleiding van de blinde tests met gemeenten is deze norm gehandhaafd.
+
+Er is gekozen om gebouwen met een onbekend energielabel wel mogelijk te classificeren als mogelijk compensatie. Zo levert dit in Enkhuizen centrum compensatiegebieden op, op basis van monumenten, die anders niet zichtbaar worden.
