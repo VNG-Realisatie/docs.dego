@@ -31,7 +31,7 @@ De tijdelijke regeling is van toepassing op woonkernen. Zowel bedrijventerreinen
 
 
 ### Verantwoording 
-Het initiële concept voor deze kaartlagen komen van koplopergemeente Maasdriel. De  kaartlagen zijn gezamenlijk ontwikkeld en getest door  VNG Realisatie, gemeente Maasdriel,  Landsmeer, Amstelveen, Alkmaar, 
+Het initiële concept voor deze kaartlagen komen van koplopergemeente Maasdriel. Het ontwikkelen en testen is uitgevoerd door VNG Realisatie , gemeente Maasdriel, gemeente West Maas en Waal, Zevenaar Bloemendaal, Alkmaar, Landsmeer,  Amstelveen, Borger-Odoorn.nl.
 
 Bronnen bij het ontwikkelen van de kaartlagen zijn geweest: de concept en definitieve handleiding, Vragen van woningeigenaren,  Nationaal Isolatieprogramma,  Home,  [Volkshuisvesting Nederland](https://www.volkshuisvestingnederland.nl/onderwerpen/nationaal-isolatieprogramma/landelijke-aanpak-natuurvriendelijk-isoleren/veelgestelde-vragen/vragen-van-woningeigenaren).
 
@@ -44,3 +44,10 @@ Er is gekozen om CBS woonkernen en een bijbehorende bufferzones, rekening houden
 De visualisatie van koopwoningen in de kaartlaag compensatiegebieden is op het oog ontworpen. Overduidelijke gebieden met veel huurwoningen willen we uitsluiten. >80% koopwoningen selecteert de gebieden waar er dus maar 20% huur is. Daarbinnen werken we met gradaties van 80-100 % om daarbinnen te schakeren. Naar aanleiding van de blinde tests met gemeenten is deze norm gehandhaafd.
 
 Er is gekozen om gebouwen met een onbekend energielabel wel mogelijk te classificeren als mogelijk compensatie. Zo levert dit in Enkhuizen centrum compensatiegebieden op, op basis van monumenten, die anders niet zichtbaar worden.
+
+### Datakwaliteit
+Voor energie labels wordt er gebruik gemaakt van de energie labels op EP-online, gecombineerd met de BAG. Deze bronnen worden doorlopend gewijzigd, en hebben een statistisch hoge mate van betrouwbaarheid. Op pand niveau kunnen er incidenteel  individuele fouten in zitten door eigenaren geen courant label of correct label hebben, danwel een privacy uitzondering vormen. Voor het eindresultaat, de compensatiegebieden, zal dit geen noemenswaardige effecten hebben.
+
+Voor de bouwjaren wordt gebruik gemaakt van de BAG. Voor recente jaren zijn deze bouwjaren zeer betrouwbaar te noemen. Qua data worden  de bouwjaren onbetrouwbaarder naarmate het langer geleden is. 
+
+Mate van koopwoningen worden gepubliceerd door het CBS via het Kerncijfers per postcode. De publicatiedatum is 2022. Er is inmiddels een 2023 bestand beschikbaar, maar dit levert geen noemenswaardige verschillen op.
