@@ -15,7 +15,7 @@ nav:
       - title: Home
         path: /
       - title: Themas
-        path: /docs
+        path: /docs/themas
       - title: API Documentatie
         path: /docs 
       - title: Over CDF
