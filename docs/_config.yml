@@ -45,6 +45,14 @@ apinav:
       - title: Vector tiles
         path: /API/vt  
 
+themanav:
+  - title: Thema Navigatie
+    subnav:
+      - title: Home
+        path: /
+      - title: Vleermuizen
+        path: /themas/vleermuizen_en_isolatie
+
 
 plugins:
   - jekyll-redirect-from
