@@ -1,5 +1,5 @@
 ---
-title: "Vleermuizen en isolatie"
+title: Vleermuizen en isolatie
 layout: page-with-side-nav
 ---
 # Vleermuis compensatieopgave (NVI)
