@@ -17,21 +17,21 @@ Voor vragen of reacties zijn wij bereikbaar via email op vip@vng.nl of telefonis
 ### Functionaliteit 
 Deze datadienst is ontwikkeld als uitbreiding van de datavoorziening energietransitie gebouwde omgeving (DEGO, dego.vng.nl) en levert kaarten die helpen de belangrijkste compensatie gebieden binnen een gemeente in kaart te brengen en de verantwoording vereenvoudigen.
 
-
-1. “Compensatiegebieden” 
-Deze kaartlaag combineert de overige kaartlagen om gebieden op voorhand te kunnen onderscheiden die wel of niet geschikter zijn voor het plaatsen van vpv’s. 
-2. “Woningen met energielabel C of lager”
+1. “Woningen met energielabel C of lager”
 Deze kaartlaag sluit  woningen die waarschijnlijk al geïsoleerd zijn uit en toont hierdoor woningen die mogelijk onderdeel zijn van de compensatieopgave.
-3. “Woningen voor 1993”
+2. “Woningen voor 1993”
 Deze kaartlaag sluit woningen die volgens moderne bouwnormen gebouwd zijn uit. Dit zijn woningen die vrijwel zeker zijn opgeleverd volgens de wettelijke normen vastgesteld in 1990. De overgebleven woningen zijn mogelijk onderdeel de compensatieopgave. 
-4. “Mate van koopwoningen”
+3. “Mate van koopwoningen”
 De tijdelijke regeling is van toepassing op woningen in particulier bezit, niet op woningen van woningcorporaties. Daarom zijn gebieden met een hoge graad koopwoningen vormen de gebieden om te voorzien van vpv’s vanwege de compensatie opgave. 
-5. “CBS Woonkernen”
-De tijdelijke regeling is van toepassing op woonkernen. Zowel bedrijventerreinen als buitengebieden vallen niet onder de tijdelijke regeling. Deze gebieden worden op deze kaartlaag buitengesloten.
+4. “Compensatiegebieden” 
+Deze kaartlaag combineert de bovenstaande kaartlagen om gebieden op voorhand te kunnen onderscheiden die wel of niet geschikter zijn voor het realiseren van alternatieve verblijfplaatsen voor vleermuizen. 
+
+Disclaimer: Stedelijk gebied
+De tijdelijke regeling is enkel van toepassing op stedelijk gebied. Provincies gaan op verschillende wijze om met de definitie daarvan. Met name rond de randen en bij lintdorpen kan het zijn dat het niet onder de regeling valt. Voor meer informatie neem contact op met uw provincie.
 
 
 ### Verantwoording 
-Het initiële concept voor deze kaartlagen komt van koplopergemeente Maasdriel. Het ontwikkelen en testen is uitgevoerd door VNG Realisatie , gemeente Maasdriel, gemeente West Maas en Waal, Zevenaar, Bloemendaal, Huizen, Alkmaar, Landsmeer,  Amstelveen, Borger-Odoorn.
+Het initiële concept voor deze kaartlagen komt van koplopergemeente Maasdriel. Het ontwikkelen en testen is uitgevoerd door VNG Realisatie, gemeente Maasdriel, gemeente West Maas en Waal, Zevenaar, Bloemendaal, Huizen, Alkmaar, Landsmeer,  Amstelveen, Borger-Odoorn.
 
 Bronnen bij het ontwikkelen van de kaartlagen zijn geweest: de concept en definitieve handleiding, Vragen van woningeigenaren,  Nationaal Isolatieprogramma,  Home,  [Volkshuisvesting Nederland](https://www.volkshuisvestingnederland.nl/onderwerpen/nationaal-isolatieprogramma/landelijke-aanpak-natuurvriendelijk-isoleren/veelgestelde-vragen/vragen-van-woningeigenaren).
 
