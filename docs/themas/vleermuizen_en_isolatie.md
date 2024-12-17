@@ -22,7 +22,7 @@ Deze kaartlaag sluit  woningen die waarschijnlijk al geïsoleerd zijn uit en too
 2. “Woningen voor 1993”
 Deze kaartlaag sluit woningen die volgens moderne bouwnormen gebouwd zijn uit. Dit zijn woningen die vrijwel zeker zijn opgeleverd volgens de wettelijke normen vastgesteld in 1990. De overgebleven woningen zijn mogelijk onderdeel de compensatieopgave. 
 3. “Mate van koopwoningen”
-De tijdelijke regeling is van toepassing op woningen in particulier bezit, niet op woningen van woningcorporaties. Daarom zijn gebieden met een hoge graad koopwoningen vormen de gebieden om te voorzien van vpv’s vanwege de compensatie opgave. 
+De tijdelijke regeling is van toepassing op woningen in particulier bezit, niet op woningen van woningcorporaties. Daarom zijn gebieden met een hoge graad koopwoningen vanuit de compensatie opgave de gebieden om  alternatieve verblijfplaatsen voor vleermuizen te realiseren. 
 4. “Compensatiegebieden” 
 Deze kaartlaag combineert de bovenstaande kaartlagen om gebieden op voorhand te kunnen onderscheiden die wel of niet geschikter zijn voor het realiseren van alternatieve verblijfplaatsen voor vleermuizen. 
 
