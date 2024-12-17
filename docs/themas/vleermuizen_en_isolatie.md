@@ -2,6 +2,7 @@
 title: "Vleermuizen en isolatie"
 layout: page-with-side-nav
 ---
+
 # Vleermuis compensatieopgave (NVI)
 
 Deze datadienst is ontwikkeld als uitbreiding van de datavoorziening energietransitie gebouwde omgeving (DEGO, dego.vng.nl) en levert kaarten die helpen de compensatie gebieden in kaart te brengen en de verantwoording vereenvoudigen. Deze gebruikersdocumentatie geeft meer achtergrond over de compensatie opgave NVI, en hoe ondersteuning te krijgen. Daarnaast is er een functionele documentatie en verantwoording.
