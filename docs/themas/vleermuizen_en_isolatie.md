@@ -6,7 +6,7 @@ layout: page-with-side-nav
 
 Deze datadienst is ontwikkeld als uitbreiding van de datavoorziening energietransitie gebouwde omgeving (DEGO, dego.vng.nl) en levert kaarten die helpen de compensatie gebieden in kaart te brengen en de verantwoording vereenvoudigen. Deze gebruikersdocumentatie geeft meer achtergrond over de compensatie opgave NVI, en hoe ondersteuning te krijgen. Daarnaast is er een functionele documentatie en verantwoording.
 
-### Vleermuis Compensatieopgave NVI
+### Wat is de vleermuis Compensatieopgave NVI?
 “Het realiseren van alternatieve verblijven voor vleermuizen is een voorwaarde voor de [landelijke aanpak natuurvriendelijk isoleren (NVI)](https://vng.nl/nieuws/tijdelijke-landelijke-aanpak-voor-natuurvriendelijk-isoleren). Gemeenten hebben een belangrijke rol in deze compensatieopgave. Daardoor mogen particuliere woningeigenaren onder voorwaarden weer isoleren. Om gemeenten bij het vinden van geschikte locaties te ondersteunen worden deze kaartlagen aangeboden.
 Gemeenten hebben een brief van de provincie gekregen met hun compensatie opgave. Dit betreft het realiseren van een aantal alternatieve voorzieningen in daarvoor geschikte gebieden op de daarvoor geschikte locaties. Het handboek “Gemeentelijke compensatieopgave vleermuizen - Korte termijn aanpak NVI”, beschikbaar via het [forum van VNG](https://forum.vng.nl/do/document?id=5684352-646f63756d656e74), legt uit hoe je als gemeente hiermee aan de slag kan gaan. 
 
