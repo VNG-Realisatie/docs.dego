@@ -7,5 +7,5 @@ title: Themas Data Energie Gebouwde Omgeving (DEGO)
 Naast de ondersteuning van gemeenten met behulp van [data](../docs) biedt DEGO ook thema's aan. 
 
 #### Themas
-[Vleermuizen en isolatie](./themas/vleermuizen_en_isolatie)
+[Vleermuizen en isolatie](./vleermuizen_en_isolatie)
 
