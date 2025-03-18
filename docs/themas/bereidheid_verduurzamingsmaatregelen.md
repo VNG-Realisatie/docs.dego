@@ -1,6 +1,6 @@
 ---
 title: "Bereidheid Verduurzamingsmaatregelen"
-layout: page-with-side-nav
+layout: thema-page-with-side-nav
 ---
 
 ## Bereidheid Verduurzamingsmaatregelen
