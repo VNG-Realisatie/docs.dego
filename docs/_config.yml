@@ -51,6 +51,20 @@ themanav:
     subnav:
       - title: Home
         path: /
+      - title: Bereidheid Verduurzamingsmaatregelen
+        path: /themas/bereidheid_verduurzamingsmaatregelen
+      - title: Energie armoede
+        path: /themas/energie_armoede
+      - title: Energie verbruik
+        path: /themas/energie_verbruik
+      - title: Gebouwen
+        path: /themas/gebouwen
+      - title: Koppelkansen
+        path: /themas/koppelkansen
+      - title: Ondergrond
+        path: /themas/ondergrond
+      - title: Sociale karakteristieken
+        path: /themas/sociale_karakteristieken
       - title: Vleermuizen
         path: /themas/vleermuizen_en_isolatie
 
