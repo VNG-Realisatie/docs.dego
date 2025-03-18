@@ -9,13 +9,13 @@ Naast de [thema kaarten](../themas/) is de openbare data achter DEGO is ook op t
 Om een beeld te krijgen van de mogelijkheden van de API's is een [Postman collectie](/_assets/CDF.postman_collection.json) beschikbaar.
 
 ### Directe Download
-CSV download
-Database dumps
+- [CSV downloads](../csv)
+- Database dumps
 
 ### CSV Download documentatie
-Download Dego
-Download Wijkpaspoort
-Download KVK
+- Download Dego
+- Download Wijkpaspoort
+- Download KVK
 
 
 ### API Documentatie
