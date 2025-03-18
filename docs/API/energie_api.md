@@ -1,5 +1,5 @@
 ---
-layout: dego-page-with-side-nav
+layout: api-page-with-side-nav
 title: API energie data
 ---
 Alle energie data is per verblijfsobject op te vragen via de volgende API :
