@@ -5,7 +5,7 @@ title: Data Energie Gebouwde Omgeving (DEGO)
 
 # API Download links voor elke gemeente.
 
-[documentatie](/docs/api/energie/)
+[documentatie](/docs/API/energie_api)
 
 Bevat alle beschikbare energie gerelateerde data met BAG id, ligplaats, nummeraanduiding, verblijfsobject, ligplaats.
 
