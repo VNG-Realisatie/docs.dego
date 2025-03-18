@@ -1,5 +1,5 @@
 ---
-layout: dego-page-with-side-nav
+layout: api-page-with-side-nav
 title: BOVAG API
 ---
 Alle energie BOVAG geregistreerde bedrijven zijn op te vragen via de volgende API :
