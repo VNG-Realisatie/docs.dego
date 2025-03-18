@@ -1,6 +1,6 @@
 ---
 title: WFS CBS data
-layout: dego-page-with-side-nav
+layout: api-page-with-side-nav
 ---
 
 Omdat een WFS zo handig is, en GIS-programma's al veel worden gebruikt in
