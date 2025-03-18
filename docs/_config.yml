@@ -19,18 +19,14 @@ nav:
         path: /themas
       - title: API Documentatie
         path: /docs 
-      - title: Over CDF
-        path: /over  
-      - title: Contact
-        path: /contact
-      - title: SourceCode
-        path: /sourcecode  
 
 apinav:
   - title: API Documentatie
     subnav:
       - title: Home
         path: /
+      - title: Themas
+        path: /themas
       - title: API Energie data
         path: /API/energie_api 
       - title: API BOVAG
@@ -67,6 +63,8 @@ themanav:
         path: /themas/sociale_karakteristieken
       - title: Vleermuizen
         path: /themas/vleermuizen_en_isolatie
+      - title: API Documentatie
+        path: /docs 
 
 
 plugins:
