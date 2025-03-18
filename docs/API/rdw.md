@@ -1,6 +1,6 @@
 ---
 title: "RDW API"
-layout: dego-page-with-side-nav
+layout: api-page-with-side-nav
 ---
 
 
