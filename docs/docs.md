@@ -5,18 +5,6 @@ title: Data Energie Gebouwde Omgeving (DEGO)
 
 # Gebruik van DEGO
 
-#### Data Documentatie
-Opbouw van de Kaart
-Data omschrijving
-Externe bronnen
-Data Jagen
-GIS / QGIS
-
-#### Themas
-[Vleermuizen en isolatie](./themas/vleermuizen_en_isolatie)
-
-
-
 ### Directe Download
 CSV download
 Database dumps
