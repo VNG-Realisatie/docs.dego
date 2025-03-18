@@ -1,6 +1,6 @@
 ---
 title: "Koppelkansen"
-layout: page-with-side-nav
+layout: thema-page-with-side-nav
 ---
 
 ## Koppelkansen
