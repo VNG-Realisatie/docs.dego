@@ -4,8 +4,17 @@ title: Themas Data Energie Gebouwde Omgeving (DEGO)
 ---
 # Themas Datavoorziening Energietransitie Gebouwde Omgeving (DEGO) - VNG Realisatie
 
-Naast de ondersteuning van gemeenten met behulp van [data](../docs) biedt DEGO ook thema's aan. 
+Naast de ondersteuning van gemeenten met behulp van [data](../API/) biedt DEGO ook thema's aan, uitgewerkt in kaarten.
+Via het menu aan de linkerkant kunnen de beschrijvingen van de verschillende kaarten opgevraagd worden. Voor DEGO gaat het om de volgende kaarten:
 
-#### Themas
-[Vleermuizen en isolatie](./vleermuizen_en_isolatie)
+- Bereidheid Verduurzamingsmaatregelen
+- Energie armoede
+- Energie verbruik
+- Gebouwen
+- Koppelkansen
+- Ondergrond
+- Sociale karakteristieken
+- Vleermuizen
+
+
 
