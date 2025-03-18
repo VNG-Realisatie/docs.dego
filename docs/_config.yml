@@ -18,7 +18,7 @@ nav:
       - title: Themas
         path: /themas
       - title: API Documentatie
-        path: /docs 
+        path: /API
 
 apinav:
   - title: API Documentatie
@@ -58,7 +58,7 @@ themanav:
       - title: Vleermuizen
         path: /themas/vleermuizen_en_isolatie
       - title: API Documentatie
-        path: /docs 
+        path: /API 
 
 
 plugins:
