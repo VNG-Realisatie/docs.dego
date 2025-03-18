@@ -1,6 +1,6 @@
 ---
 title: "Energie armoede"
-layout: page-with-side-nav
+layout: thema-page-with-side-nav
 ---
 ## Energie armoede
 
