@@ -1,5 +1,5 @@
 ---
-title: "Vleermuizen en isolatie"
+title: "Gebouwen"
 layout: page-with-side-nav
 ---
 
