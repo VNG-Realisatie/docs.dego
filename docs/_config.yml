@@ -29,12 +29,6 @@ apinav:
         path: /themas
       - title: API Energie data
         path: /API/energie_api 
-      - title: API BOVAG
-        path: /API/bovag  
-      - title: API SBICODES
-        path: /API/sbicodes
-      - title: API RDW
-        path: /API/rdw 
       - title: WFS - energie
         path: /API/energie_wfs  
       - title: WFS - cbs
