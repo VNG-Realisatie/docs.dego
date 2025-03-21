@@ -13,8 +13,7 @@ Daarom is het goed om een beeld te hebben van de infrastructuur die nu al in de 
 Deze dataset bevat de liggingsgegevens van de elektriciteitsnetten binnen het werkgebied van Liander. Het betreft de laag- (LS), midden- (MS) en hoogspanningsnetten (HS), inclusief laagspanningskasten, middenspanningsruimtes 
 (MSR) en stations. Er wordt gewerkt aan een landsdekkende kaart.
 
-_Bron: Atlas voor de leefomgeving RIVM_
-
+_Bron: Atlas voor de leefomgeving RIVM_<br/>
 _Niveau: buurt, wijk, gemeente_
 
 ### Riolering
@@ -22,6 +21,5 @@ _Niveau: buurt, wijk, gemeente_
 Op deze kaart is de riolering weergegeven. Het gaat hierbij om verschillende aspecten van de riolering zoals verschillende soorten leidingen, putten en kolken. Heb je vragen over deze kaartlaag? 
 Neem dan contact op met stichting Rioned via <a href="mailto:info\@rioned.org">info\@rioned.org</a>
 
-_Bron: Stichting RIONED, van PDOK_
-
+_Bron: Stichting RIONED, van PDOK_<br/>
 _Niveau: buurt, wijk, gemeente_
