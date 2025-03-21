@@ -32,10 +32,8 @@ Daarnaast kan een uitsplitsing gemaakt worden naar type woning:
 - Huur
 - Koop
 
-_Bron: CBS, Bereidheid energiemaatregelen_
-
-_Update: eenmalig (maatwerk) 2021_
-
+_Bron: CBS, Bereidheid energiemaatregelen_<br/>
+_Update: eenmalig (maatwerk) 2021_<br/>
 _Niveau: buurt, wijk, gemeente_
 
 ### Vindt energiezuinige maatregelen belangrijk vanwege het milieu
@@ -56,10 +54,8 @@ Daarnaast kan een uitsplitsing gemaakt worden naar type woning:
 - Huur
 - Koop
 
-_Bron: CBS, Bereidheid energiemaatregelen_
-
-_Update: eenmalig (maatwerk) 2021_
-
+_Bron: CBS, Bereidheid energiemaatregelen_<br/>
+_Update: eenmalig (maatwerk) 2021_<br/>
 _Niveau: buurt, wijk, gemeente_
 
 ### Vind woning al energiezuinig
@@ -81,8 +77,6 @@ Daarnaast kan een uitsplitsing gemaakt worden naar type woning:
 - Huur
 - Koop
 
-_Bron: CBS, Bereidheid energiemaatregelen_
-
-_Update: eenmalig (maatwerk) 2021_
-
+_Bron: CBS, Bereidheid energiemaatregelen_<br/>
+_Update: eenmalig (maatwerk) 2021_<br/>
 _Niveau: buurt, wijk, gemeente_
