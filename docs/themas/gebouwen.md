@@ -18,20 +18,16 @@ Het bouwjaar geeft een eerste indicatie van wat de energetische kwaliteit en mog
 - 1945-1994
 - Na 1995
 
-_Bron: BAG_
-
-_Update: jaarlijks (juni)_
-
+_Bron: BAG_<br/>
+_Update: jaarlijks (juni)_<br/>
 _Niveau: pand_
 
 ### Energie klasse
 
 Energieklasse geeft een indicatie van hoe goed een object geïsoleerd is, en daarmee ook een eerste indicatie van hoeveel er nog na geïsoleerd moet worden om het object geschikt te maken voor een bepaalde warmte-oplossing. Het is betrouwbaarder dan het voorlopige energielabel, maar niet voor alle objecten beschikbaar. Het energielabel loopt vaak achter. Particulieren kunnen bijvoorbeeld hun huis verduurzaamd hebben, terwijl het huis nog een oud energielabel heeft. Pas bij verkoop van de woning is een energielabel aanvragen verplicht en wordt er het energielabel herzien. Op de kaart zijn alle labels in een pand gemiddeld, in de download/dataselectie zitten alle labels. Het kan bijvoorbeeld zijn dat een pand meerdere woningen betreft, dan laat de kaart dus een gemiddelde energielabel waarde voor het gehele pand zien.
 
-_Bron: RVO_
-
-_Update: jaarlijks (juni)_
-
+_Bron: RVO_</br>
+_Update: jaarlijks (juni)_<br/>
 _Niveau: pand_
 
 ### Woonfunctie
@@ -42,20 +38,16 @@ De woonfunctie geeft een indicatie van het woninggebruik in een object. We onder
 - objecten met gedeeltelijke woonfunctie
 - objecten zonder woonfunctie.
 
-_Bron: BAG_
-
-_Update: jaarlijks (juni)_
-
+_Bron: BAG_<br/>
+_Update: jaarlijks (juni)_<br/>
 _Niveau: pand_
 
 ### Gemiddelde WOZ-waarde
 
 De WOZ-geeft een indicatie van de waarde van de objecten in een buurt. De WOZ-waarde kan als één van de indicatoren worden gebruikt om de financiële draagkracht van bewoners in kaart te brengen. Inzicht in de draagkracht is belangrijk om in te schatten in hoeverre de bewoners zelf de financiële mogelijkheid hebben om hun huis bijvoorbeeld te isoleren of te investeren in alternatieve warmtevoorzieningen. De BAG data wordt gebruikt om te bepalen of een pand een woonfunctie heeft.
 
-_Bron: CBS, Kerncijfers naar wijken en buurten, BAG (woonfunctie)_
-
-_Update: jaarlijks (juni)_
-
+_Bron: CBS, Kerncijfers naar wijken en buurten, BAG (woonfunctie)_<br/>
+_Update: jaarlijks (juni)_<br/>
 _Niveau: gemeente, wijk, buurt, postcode – 6_
 
 ### Eigendomssituatie
@@ -67,10 +59,8 @@ De volgende weergaven kunnen worden gekozen:
 - Percentage koopwoningen
 - Percentage huurwoningen
 
-_Bron: CBS, Kerncijfers naar wijken en buurten_
-
-_Update: jaarlijks (juni)_
-
+_Bron: CBS, Kerncijfers naar wijken en buurten_<br/>
+_Update: jaarlijks (juni)_<br/>
 _Niveau: gemeente, wijk, buurt, postcode – 6_
 
 ### Pilot Eigendomsgegevens – via inlog
@@ -84,10 +74,8 @@ In deze pilot is voor gemeente Apeldoorn inzicht gegeven in de eigendom van pand
 
 Deze kaartlaag is alleen toegankelijk na inloggen. Heeft u geen login gegevens kunt u zich op deze \[pagina\](<https://login.data.vng.nl/login>) registreren.
 
-_Bron: Gemeente Apeldoorn_
-
-_Update: eenmalig voor pilot_
-
+_Bron: Gemeente Apeldoorn_<br/>
+_Update: eenmalig voor pilot_<br/>
 _Niveau: gemeente, wijk, buurt, postcode – 6_
 
 ### Grote Eigenaren – via inlog
@@ -96,8 +84,6 @@ Deze dataset geeft weer welk percentage van de verblijfsobjecten in bezit is van
 
 Deze kaartlaag is alleen toegankelijk na inloggen. Heeft u geen login gegevens kunt u zich op deze \[pagina\](<https://login.data.vng.nl/login>) registreren.
 
-_Bron: Buurtstatistieken grote eigenaren Kadaster_
-
-_Update: eenmalig maatwerk (2021)_
-
+_Bron: Buurtstatistieken grote eigenaren Kadaster_<br/>
+_Update: eenmalig maatwerk (2021)_<br/>
 _Niveau: wijk, buurt_
