@@ -42,7 +42,7 @@ _Niveau: per postcode 6 gebied_
 
 ### Gasverbruik per m3 2023
 
-### Het gasverbruik per kubieke meter object geeft een indicatie van de energiezuinigheid van een object. Een hoog gasverbruik kan immers veroorzaakt worden door slechte isolatie, maar ook doordat een object erg groot is. De hoogte van een pand komt uit de BAG3D van TU-delft met behulp van laser metingen. Helaas is niet van elk pand een hoogte beschikbaar. Samen met het feit dat kleinverbruik gegevens over meerdere panden gaat, zitten er grote gaten in de kaart. De kaart lijkt overeen te komen met de m2 laag maar in hoogbouw zijn toch aanzienlijke verschillen te zien
+Het gasverbruik per kubieke meter object geeft een indicatie van de energiezuinigheid van een object. Een hoog gasverbruik kan immers veroorzaakt worden door slechte isolatie, maar ook doordat een object erg groot is. De hoogte van een pand komt uit de BAG3D van TU-delft met behulp van laser metingen. Helaas is niet van elk pand een hoogte beschikbaar. Samen met het feit dat kleinverbruik gegevens over meerdere panden gaat, zitten er grote gaten in de kaart. De kaart lijkt overeen te komen met de m2 laag maar in hoogbouw zijn toch aanzienlijke verschillen te zien
 
 _Bron: Kleinverbruik bestanden van alle netbeheerders_<br/>
 _Bron: BAG (voor de oppervlakte)_<br/>
