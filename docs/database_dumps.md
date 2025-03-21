@@ -8,13 +8,8 @@ title: Data Energie Gebouwde Omgeving (DEGO)
 Onze viewers gebruiken de onderstaande database bestanden.
 Deze zijn grotendeels van andere publieke bronnen gedownload, en zelf verwerkt en opgemaakt. Voor de publieke bronnen, zie [Over onze data](/docs/metadata)
 
-Dit zijn dus onze eigen verwerkte eindresultaten van wat er in
-de verschillende viewers te zien is.
-
-### Meest actuele data per gemeente staat altijd op:
-
-
-## [energie data API](/docs/csv)
+Dit zijn dus onze eigen verwerkte eindresultaten van wat er in de verschillende viewers te zien is.
+De meest actuele data per gemeente kan via [csv](../csv) gedownload worden.
 
 
 ### Heel Nederland in 1 keer als data dump:
