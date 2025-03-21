@@ -19,7 +19,7 @@ _Niveau: buurt, wijk, gemeente_
 ### Riolering
 
 Op deze kaart is de riolering weergegeven. Het gaat hierbij om verschillende aspecten van de riolering zoals verschillende soorten leidingen, putten en kolken. Heb je vragen over deze kaartlaag? 
-Neem dan contact op met stichting Rioned via <a href="mailto:info\@rioned.org">info\@rioned.org</a>
+Neem dan contact op met stichting Rioned via <a href="mailto:info@rioned.org">info@rioned.org</a>
 
 _Bron: Stichting RIONED, van PDOK_<br/>
 _Niveau: buurt, wijk, gemeente_
