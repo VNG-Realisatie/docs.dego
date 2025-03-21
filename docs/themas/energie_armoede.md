@@ -21,10 +21,6 @@ Er wordt in de kaartdata onderscheid gemaakt tussen:
 - Huur (overige verhuurders)
 - Onbekend bezit
 
-_Bron: CBS, Monitor Energie Armoede_<br/>
-_Update: eenmalig (maatwerk) 2021_<br/>
-_Niveau: buurt, wijk, gemeente_
-
 ### Hoge energiequote (HEq)
 
 Deze indicator geeft weer hoeveel procent van de huishoudens een hoge energiequote heeft. De energiequote is berekend uit het betaalbudget en de berekende energierekening. Als een huishouden een energiequote van 10% of meer heeft (en dus 10% of meer van het inkomen uitgeeft aan energielasten) heeft het een hoge energiequote. Als een huishouden een hoge energiequote heeft, is dit een indicatie dat energie een (te) groot deel van het beschikbare budget inneemt.
@@ -44,3 +40,8 @@ Deze indicator geeft weer hoeveel procent van de huishoudens in een woning met e
 ### Laag inkomen en hoge energierekening en/of lage energiekwaliteit (LIHE en/of LILEK)
 
 Deze indicator geeft weer hoeveel procent van de huishoudens een laag inkomen heeft, en daarnaast een hoge energierekening en/of een in een woning met een lage energiekwaliteit woont.
+
+
+_Bron: CBS, Monitor Energie Armoede_<br/>
+_Update: eenmalig (maatwerk) 2021_<br/>
+_Niveau: buurt, wijk, gemeente_
