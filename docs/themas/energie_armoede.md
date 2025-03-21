@@ -21,10 +21,8 @@ Er wordt in de kaartdata onderscheid gemaakt tussen:
 - Huur (overige verhuurders)
 - Onbekend bezit
 
-_Bron: CBS, Monitor Energie Armoede_
-
-_Update: eenmalig (maatwerk) 2021_
-
+_Bron: CBS, Monitor Energie Armoede_<br/>
+_Update: eenmalig (maatwerk) 2021_<br/>
 _Niveau: buurt, wijk, gemeente_
 
 ### Hoge energiequote (HEq)
