@@ -61,7 +61,6 @@ _Niveau: per postcode 6 gebied_
 ### Aantal gasaansluitingen per pand – EAN codes
 
 Deze kaartlaag is alleen toegankelijk na inloggen. Heeft u geen login gegevens kunt u zich op deze \[pagina\](<https://login.data.vng.nl/login>) registreren.
-
 Het aantal EAN codes is een indicatie voor het aantal gas aansluitingen binnen een object.
 
 Het gaat hierbij om kleinverbruik aansluitingen, bij 0 aansluitingen kan een grootverbruik aansluiting zijn
