@@ -6,7 +6,6 @@ layout: thema-page-with-side-nav
 ## Gebouwen
 
 De eigenschappen van een gebouw bepalen mede welke maatregelen er genomen kunnen of moeten worden voor het aardgas vrij maken van gebouwen.
-
 De volgende kaartlagen zijn beschikbaar:
 
 ### Bouwjaar (op categorie)
