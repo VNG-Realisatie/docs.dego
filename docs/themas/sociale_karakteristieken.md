@@ -13,10 +13,8 @@ Het gemiddelde inkomen zegt iets over de bestedingsruimte die mensen hebben, en 
 minder bestedingsruimte, maar betekent ook dat een stijging van de (fossiele) energieprijzen meer impact heeft. Een hoger gemiddeld inkomen betekent dat de mensen die graag iets willen doen aan de energietransitie, daar 
 waarschijnlijk ook de financiële ruimte voor hebben. Moet uiteraard samen met andere indicatoren bekeken worden, met name of er sprake is van huur of koop.
 
-_Bron: CBS, Kerncijfers wijken en buurten 2019_
-
-_Update: jaarlijks_
-
+_Bron: CBS, Kerncijfers wijken en buurten 2019_<br/>
+_Update: jaarlijks_<br/>
 _Niveau: buurt, wijk, gemeente_
 
 ### Percentage huishoudens die behoren tot de landelijke 40% huishoudens met het laagste inkomen
@@ -24,10 +22,8 @@ _Niveau: buurt, wijk, gemeente_
 Het percentage lage inkomens geeft een eerste indicatie van de aanwezigheid van armoedeproblematiek in een wijk. Moet bekeken worden met andere indicatoren, bij voorkeur % inkomen naar aardgas, omdat dan zichtbaar wordt waar 
 mensen in de knel dreigen te komen door hoge gasrekeningen.
 
-_Bron: CBS, Kerncijfers wijken en buurten 2019_
-
-_Update: jaarlijks_
-
+_Bron: CBS, Kerncijfers wijken en buurten 2019_<br/>
+_Update: jaarlijks_<br/>
 _Niveau: buurt, wijk, gemeente_
 
 ### Financiële draagkracht van huishoudens met een koopwoning
@@ -45,8 +41,6 @@ Deze dataset geeft aan hoeveel procent van de huishoudens in een wijk of buurt e
 - Minimaal 45000 euro
 - Minimaal 50000 euro
 
-_Bron: CBS, Kerncijfers wijken en buurten 2019_
-
-_Update: jaarlijks_
-
+_Bron: CBS, Kerncijfers wijken en buurten 2019_<br/>
+_Update: jaarlijks_<br/>
 _Niveau: buurt, wijk, gemeente_
