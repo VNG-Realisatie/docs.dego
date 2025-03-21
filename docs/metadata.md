@@ -36,7 +36,8 @@ De gebruikte bronnen:
 
 De BAG en kleinverbruik gegevens zijn gecombineerd om voor één of meer postcode 6 gebieden een indicatie
 te geven van het verbruik per m2 en m3 volume gebouw. Het is een indicatie zoals een energie label over een
-aantal panden samen.
+aantal panden samen. Ondanks de zorgvuldige verwerking van de data kunnen de BAG data, kleinverbruikgegevens en
+pandhoogte afwijken van de realiteit.
 
 ## Interpretatie valkuilen.
 
@@ -51,8 +52,7 @@ ook naar de aanwezige aansluitingen.
 ## Opmerkingen
 
 Oude postcode 6 gebieden zijn vaak erg versnipperd en klein terwijl in nieuwbouw wijken postcode gebieden
-doorgaans erg groot zijn. We hopen in de toekomst dat er een andere indeling wordt gebruik dan postcode 6
-en zijn daarover in gesprek.
+doorgaans erg groot zijn. 
 
 ## Kwaliteit van de data
 Ter verduidelijking hebben we per attribuut beschreven waar het vandaan wordt gehaald.
@@ -61,3 +61,29 @@ Indien er data gemist wordt hebben we per attribuut vermeld hoeveel data er gemi
 Feedback en vragen
 Voor vragen of reacties zijn wij bereikbaar via email op <a href="mailto:DEGO@vng.nl">DEGO@vng.nl</a> of telefonisch via 
 ons klant contact centrum met telefoonnummer 070-3738393 onder vermelding van DEGO.
+
+
+Hieronder staan een aantal attributen waarop u moet letten qua datakwaliteit:
+
+
+Dataset 	| Kolomnaam 	| Opmerking
+---	| ---	| --:
+BAG 	|   roof\_flat 	|   In ontwikkeling, precisie = 80%
+Energy 	|   roof\_flat 	|  In ontwikkeling, precisie = 80%
+Energy 	|   elabel\_definitief 	|  62% van de gebouwen heeft geen definitief energielabel gemeten
+Energy 	|   elabel\_voorlopig 	|  11% van de gebouwen heeft geen voorlopig energielabel
+Energy 	|   gasm3\_per\_m3 	|  24,23% data mist
+CBS 	|   koopwoningen\_percentage 	|  21.41% data mist
+CBS 	|   woningcorporatie\_woningen\_percentage 	|  21.41% data mist
+CBS 	|   bouwjaar\_percentage\_voor2000 	|   21.27% data mist
+CBS 	|   bedrijven\_per\_buurt 	|   29.93% data mist
+CBS 	|   personenautos\_per\_huishouden 	|   20.81% data mist
+CBS 	|   gasverbruik\_per\_huis\_gemiddeld 	|   19.10% data mist
+CBS 	|   elektriciteitsverbruik\_per\_huis\_gemiddeld 	|   **100.00% data mist**
+CBS 	|   adressen\_per\_km2 	|   37.99% data mist
+CBS 	|   lagerinkomen\_percentage\_huishouden 	|   37.99% data mist
+CBS 	|   hogerinkomen\_percentage\_huishouden 	|   86.35% data mist
+CBS 	|   inkomen\_gemiddeld\_per\_inwoner 	|   **86.72% data mist**
+CBS 	|   gasverbruik\_relatief\_aan\_inkomen 	|   **86.37% data mist**
+CBS 	|   elekverbruik\_relatief\_aan\_inkomen 	|   20.86% data mist
+CBS 	|   arbeidsongeschiktheid\_percentage 	|   **100.00% data mist**
