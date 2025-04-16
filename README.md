@@ -1,4 +1,4 @@
 # docs.dego
 
-Dit het Repository van de documentatie in te zien op docs.dego.vng.nl. 
-DEGO staat voor Data Energie Gebouwde Omgeving en is een dataplaform van VNG te vinden op dego.vng.nl.
+Dit is de repository van de documentatie welke in te zien is op [docs.dego.vng.nl](https://docs.dego.vng.nl). 
+DEGO staat voor Data Energie Gebouwde Omgeving en is een dataplaform van VNG te vinden op [dego.vng.nl](https://dego.vng.nl).
