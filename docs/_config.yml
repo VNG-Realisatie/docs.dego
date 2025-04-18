@@ -21,7 +21,7 @@ nav:
         path: /API
 
 apinav:
-  - title: API Documentatie
+  - title: Data Energie Gebouwde Omgeving (DEGO)
     subnav:
       - title: Home
         path: /
@@ -40,7 +40,7 @@ apinav:
         path: /API/vt  
 
 themanav:
-  - title: Thema Navigatie
+  - title: Data Energie Gebouwde Omgeving (DEGO)
     subnav:
       - title: Home
         path: /
