@@ -68,7 +68,7 @@ themasubnav:
       - title: Ondergrond
         path: /themas/ondergrond
   
-navfooter:
+themanavfooter:
   - subnav:
       - title: API Documentatie
         path: /API 
