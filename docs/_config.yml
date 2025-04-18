@@ -50,6 +50,7 @@ themanav:
         path: /themas/vleermuizen_en_isolatie
       - title: Warmteprogramma
         path: /themas/warmteprogramma
+
         
 themasubnav:
   - subnav:
@@ -67,8 +68,9 @@ themasubnav:
         path: /themas/koppelkansen
       - title: Ondergrond
         path: /themas/ondergrond
-  
-themanavfooter:
+
+        
+themafooter:
   - subnav:
       - title: API Documentatie
         path: /API 
