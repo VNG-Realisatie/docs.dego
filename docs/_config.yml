@@ -60,8 +60,8 @@ themasubnav:
   - subnav:
       - title: Gebouwen
         path: /themas/gebouwen
-      - title: Nutsvooerziening
-        path: /themas/nutsvooerziening
+      - title: Nutsvoorziening
+        path: /themas/nutsvoorziening
       - title: Energie verbruik
         path: /themas/energie_verbruik
       - title: Bewoners
