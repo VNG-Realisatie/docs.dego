@@ -27,10 +27,12 @@ apinav:
     subnav:
       - title: Home
         path: /
-      - title: Themas
-        path: /themas
+      - title: Vleermuizen
+        path: /themas/vleermuizen_en_isolatie
+      - title: Warmteprogramma
+        path: /themas/warmteprogramma
       - title: API Documentatie
-        path: /API 
+        path: /API
 
 apisubnav: 
   - subnav:
