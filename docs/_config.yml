@@ -29,7 +29,9 @@ apinav:
         path: /themas
       - title: API Documentatie
         path: /API 
-    subsubnav: 
+
+apisubnav: 
+  - subnav:
       - title: API Energie data
         path: /API/energie_api 
       - title: WFS - energie
@@ -48,7 +50,9 @@ themanav:
         path: /themas/vleermuizen_en_isolatie
       - title: Warmteprogramma
         path: /themas/warmteprogramma
-    subsubnav:
+        
+themasubnav:
+  - subnav:
       - title: Gebouwen
         path: /themas/gebouwen
       - title: Energie verbruik
@@ -63,7 +67,9 @@ themanav:
         path: /themas/koppelkansen
       - title: Ondergrond
         path: /themas/ondergrond
-   navfooter:
+  
+navfooter:
+  - subnav:
       - title: API Documentatie
         path: /API 
 
