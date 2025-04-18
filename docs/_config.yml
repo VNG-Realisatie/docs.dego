@@ -17,7 +17,7 @@ nav:
         path: /
       - title: Vleermuizen
         path: /themas/vleermuizen_en_isolatie
-      - title: Warmteprogramma  <span class="pijltje-rechts"></span>
+      - title: Warmteprogramma
         path: /themas/warmteprogramma
       - title: API Documentatie
         path: /API
@@ -29,7 +29,7 @@ apinav:
         path: /
       - title: Vleermuizen
         path: /themas/vleermuizen_en_isolatie
-      - title: Warmteprogramma  <span class="pijltje-rechts"></span>
+      - title: Warmteprogramma
         path: /themas/warmteprogramma
       - title: API Documentatie
         path: /API
@@ -52,7 +52,7 @@ themanav:
         path: /
       - title: Vleermuizen
         path: /themas/vleermuizen_en_isolatie
-      - title: Warmteprogramma  <span class="pijltje-rechts"></span>
+      - title: Warmteprogramma
         path: /themas/warmteprogramma
 
         
