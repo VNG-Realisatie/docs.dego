@@ -1,6 +1,6 @@
 ---
 title: "Vleermuizen en isolatie"
-layout: thema-page-with-side-nav
+layout: page-with-side-nav
 ---
 
 # Vleermuis compensatieopgave (NVI)
