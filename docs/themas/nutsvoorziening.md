@@ -31,17 +31,17 @@ Deze kaartlaag is alleen toegankelijk voor gemeenten, middels een login. Heeft u
 
 Deze kaartlaag laat zien welke objecten een laag gasverbruik hebben gemiddeld per aansluiting. Dit kan inzicht geven waar vermoedelijk kookgas is. Het is niet bekend of er een aansluiting op een warmtenet is, maar er is wel sprake van een laag gasverbruik per gemiddelde aansluiting. Deze analyse is gemaakt op basis van de kleinverbruikbestanden van netbeheerders. 
 
-_Bron: Kleinverbruik bestanden van alle netbeheerders _<br/>
+_Bron: Kleinverbruik bestanden van alle netbeheerders_<br/>
 _Update: Jaarlijks_<br/>
-_Niveau: per postcode 6 gebied _<br/>
+_Niveau: per postcode 6 gebied_<br/>
 
 ### 5.	Buurten met kookgasaansluitingen
 
 In een beperkt aantal buurten in Nederland komt kookgas voor. Dat betekent dat woningen zijn aangesloten op een warmtenet, maar wel een aardgasaansluiting hebben voor hun kooktoestel (gaskookplaat en/of gasoven). Die woningen zijn technisch mogelijk eenvoudiger aardgasvrij te maken. In deze dataset wordt weergegeven in welke buurten meer dan 20% van de woningen een kookgasaansluiting heeft. Deze buurten zijn te vinden in de gemeenten Alkmaar, Almelo, Amsterdam, Bergen op Zoom, Breda, Delft, Heerlen, Helmond, Leiden, Leiderdorp, Tilburg, Utrecht en Westervoort. In verband met AVG kunnen we niet weergeven welke exacte objecten kookgas hebben, alleen welk percentage van de woningen in een buurt kookgas heeft.
 
-_Bron: CBS, woningen met kookgasaansluitingen  _<br/>
+_Bron: CBS, woningen met kookgasaansluitingen _<br/>
 _Update: eenmalig 2020_<br/>
-_Niveau: buurten _<br/>
+_Niveau: buurten_<br/>
 
 ### 6.	Liander electriciteitsnetten
 Deze dataset bevat de liggingsgegevens van de elektriciteitsnetten binnen het werkgebied van Liander. Het betreft de laag- (LS), midden- (MS) en hoogspanningsnetten (HS), inclusief laagspanningskasten, middenspanningsruimtes (MSR) en stations. Er wordt gewerkt aan een landsdekkende kaart.
