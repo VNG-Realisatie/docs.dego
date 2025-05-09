@@ -16,6 +16,5 @@ Enkele hulpmiddelen voor het warmteprogramma:
 -	De [Startanalyse aardgasvrije](https://startanalyse.pbl.nl/) buurten van PBL biedt een vergelijking op basis van de *nationale kosten* voor de warmtealternatieven. De startanalyse biedt een basis met landelijke gevalideerde data die gemeenten kunnen verrijken met lokale gegevens om tot een goed lokaal beeld te komen. 
 -	TNO heeft een [eindgebruikers dashboard](https://energy.nl/tools/dashboard-eindgebruikerskosten/) ontwikkeld   die informatie geeft over de *eindgebruikerskosten* van de warmtetransitie, gekoppeld aan de meest voorkomende  warmtestrategieën.
 
-Meer informatie over de warmtetransitie is te vinden op de website van VNG [Verduurzaming gebouwde omgeving | VNG](https://vng.nl/rubrieken/onderwerpen/verduurzaming-gebouwde-omgeving).
-
+Meer informatie over de warmtetransitie is te vinden op de website van VNG [Verduurzaming gebouwde omgeving](https://vng.nl/rubrieken/onderwerpen/verduurzaming-gebouwde-omgeving).
 
