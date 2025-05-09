@@ -1,5 +1,5 @@
 ---
-layout: page-with-side-nav
+layout: thema-side-nav
 title: Data Energie Gebouwde Omgeving (DEGO)
 ---
 

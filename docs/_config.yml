@@ -15,18 +15,27 @@ nav:
     subnav:
       - title: Home
         path: /
-      - title: Themas
-        path: /themas
+      - title: Vleermuizen
+        path: /themas/vleermuizen_en_isolatie
+      - title: Warmteprogramma
+        path: /themas/warmteprogramma
       - title: API Documentatie
         path: /API
 
 apinav:
-  - title: API Documentatie
+  - title: Data Energie Gebouwde Omgeving (DEGO)
     subnav:
       - title: Home
         path: /
-      - title: Themas
-        path: /themas
+      - title: Vleermuizen
+        path: /themas/vleermuizen_en_isolatie
+      - title: Warmteprogramma
+        path: /themas/warmteprogramma
+      - title: API Documentatie
+        path: /API
+
+apisubnav: 
+  - subnav:
       - title: API Energie data
         path: /API/energie_api 
       - title: WFS - energie
@@ -37,26 +46,32 @@ apinav:
         path: /API/vt  
 
 themanav:
-  - title: Thema Navigatie
+  - title: Data Energie Gebouwde Omgeving (DEGO)
     subnav:
       - title: Home
         path: /
       - title: Vleermuizen
         path: /themas/vleermuizen_en_isolatie
+      - title: Warmteprogramma
+        path: /themas/warmteprogramma
+
+        
+themasubnav:
+  - subnav:
       - title: Gebouwen
         path: /themas/gebouwen
+      - title: Nutsvoorziening
+        path: /themas/nutsvoorziening
       - title: Energie verbruik
         path: /themas/energie_verbruik
-      - title: Sociale karakteristieken
-        path: /themas/sociale_karakteristieken
-      - title: Bereidheid Verduurzaming
-        path: /themas/bereidheid_verduurzamingsmaatregelen
-      - title: Energie armoede
-        path: /themas/energie_armoede
+      - title: Bewoners
+        path: /themas/bewoners
       - title: Koppelkansen
         path: /themas/koppelkansen
-      - title: Ondergrond
-        path: /themas/ondergrond
+
+        
+themafooter:
+  - subnav:
       - title: API Documentatie
         path: /API 
 
@@ -65,9 +80,9 @@ plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
 
-remote_theme: vng-realisatie/jekyll-theme-vngrealisatie-kcdenm
+remote_theme: michielverhoef/jekyll-theme-vngrealisatie-kcdenm
 
-github: vng-realisatie/docs.dego
+github: michielverhoef/docs.dego
 
 theme: jekyll-theme-time-machine
 
