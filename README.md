@@ -1,3 +1,9 @@
+| Eigenaar | Ingevuld door |
+| --- | --- |
+| Kennis centrum Data | Michiel Verhoef |
+<hr/>
+
+
 # docs.dego
 
 Dit is de repository van de documentatie welke in te zien is op [docs.dego.vng.nl](http://docs.dego.vng.nl). 
