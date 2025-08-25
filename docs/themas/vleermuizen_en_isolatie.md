@@ -13,7 +13,7 @@ Gemeenten hebben een brief van de provincie gekregen met hun compensatie opgave.
 
 
 ### Feedback en vragen
-Voor vragen of reacties zijn wij bereikbaar via email op vip@vng.nl of telefonisch via ons klant contact centrum met telefoonnummer 070-3738393 onder vermelding van DEGO.
+Voor vragen of reacties zijn wij bereikbaar via email op dego@vng.nl of telefonisch via ons klant contact centrum met telefoonnummer 070-3738393 onder vermelding van DEGO.
 
 ### Functionaliteit 
 Deze datadienst is ontwikkeld als uitbreiding van de datavoorziening energietransitie gebouwde omgeving (DEGO, dego.vng.nl) en levert kaarten die helpen de belangrijkste compensatie gebieden binnen een gemeente in kaart te brengen en de verantwoording vereenvoudigen.
