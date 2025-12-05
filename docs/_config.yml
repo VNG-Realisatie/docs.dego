@@ -62,6 +62,8 @@ themasubnav:
         path: /themas/gebouwen
       - title: Nutsvoorziening
         path: /themas/nutsvoorziening
+      - title: Referentieverbruik<br/>warmte woningen
+        path: /themas/referentieverbruik
       - title: Energie verbruik
         path: /themas/energie_verbruik
       - title: Bewoners
