@@ -38,6 +38,6 @@ Auteurs: Boris van Beijnum, Wessel Poorthuis, Ruud van den Wijngaart (PBL), Lydi
 ## Achtergrond informatie
 
 Wil je meer weten over Referentieverbruik warmte methode? 
--	[Rapport](/docs.dego/_assets/pbl-2025-referentieverbruik-warmte-woningen-II-5629.pdf) 
--	[Bijsluiter en handleiding](/docs.dego/_assets/pbl-2025-vervolgstudie-referentieverbruik-warmte-woningen-bijsluiter-en-gebruikershandleiding-5974.pdf)
+-	[Rapport](/docs.dego/blob/main/docs/_assets/pbl-2025-referentieverbruik-warmte-woningen-II-5629.pdf) 
+-	[Bijsluiter en handleiding](/docs.dego/blob/main/docs//pbl-2025-vervolgstudie-referentieverbruik-warmte-woningen-bijsluiter-en-gebruikershandleiding-5974.pdf)
 
