@@ -62,7 +62,7 @@ themasubnav:
         path: /themas/gebouwen
       - title: Nutsvoorziening
         path: /themas/nutsvoorziening
-      - title: Referentieverbruik<br/>&nbsp;&nbsp;warmte woningen
+      - title: Referentieverbruik<br/>&nbsp;&nbsp;&nbsp;warmte woningen
         path: /themas/referentieverbruik
       - title: Energie verbruik
         path: /themas/energie_verbruik
