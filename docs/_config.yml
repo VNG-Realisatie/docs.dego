@@ -19,8 +19,6 @@ nav:
         path: /themas/vleermuizen_en_isolatie
       - title: Warmteprogramma
         path: /themas/warmteprogramma
-      - title: API Documentatie
-        path: /API
 
 apinav:
   - title: Data Energie Gebouwde Omgeving (DEGO)
@@ -31,19 +29,9 @@ apinav:
         path: /themas/vleermuizen_en_isolatie
       - title: Warmteprogramma
         path: /themas/warmteprogramma
-      - title: API Documentatie
-        path: /API
 
 apisubnav: 
   - subnav:
-      - title: API Energie data
-        path: /API/energie_api 
-      - title: WFS - energie
-        path: /API/energie_wfs  
-      - title: WFS - cbs
-        path: /API/cbs_wfs
-      - title: Vector tiles
-        path: /API/vt  
 
 themanav:
   - title: Data Energie Gebouwde Omgeving (DEGO)
@@ -62,6 +50,8 @@ themasubnav:
         path: /themas/gebouwen
       - title: Nutsvoorziening
         path: /themas/nutsvoorziening
+      - title: Referentieverbruik<br/>&nbsp;&nbsp;&nbsp;warmte woningen
+        path: /themas/referentieverbruik
       - title: Energie verbruik
         path: /themas/energie_verbruik
       - title: Bewoners
@@ -72,8 +62,8 @@ themasubnav:
         
 themafooter:
   - subnav:
-      - title: API Documentatie
-        path: /API 
+      - title: 
+        path: 
 
 
 plugins:
