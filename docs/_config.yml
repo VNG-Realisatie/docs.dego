@@ -29,8 +29,6 @@ apinav:
         path: /themas/vleermuizen_en_isolatie
       - title: Warmteprogramma
         path: /themas/warmteprogramma
-      - title: API Documentatie
-        path: /API
 
 apisubnav: 
   - subnav:
