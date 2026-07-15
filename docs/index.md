@@ -15,7 +15,7 @@ Gemeenten besparen tijd, kosten en expertise op het zelf verzamelen en verwerken
 
 [DEGO](https://dego.vng.nl/) is een Datavoorziening, oftewel een productgroep van datadiensten en informatieproducten met support voor dataspecialisten bij gemeenten. Team DEGO, onderdeel van Kenniscentrum Data & Monitoring, werkt aan het beheer en – samen met gemeenten – aan de doorontwikkeling hiervan.
 
-We verzamelen en toetsen data en zorgen dat gemeenten een start kunnen maken in de uitvoering van hun plannen en zelf een goede afweging kunnen maken. Om deze data te ontsluiten bieden we [kaartlagen](https://dego.vng.nl/) aan waar gemeenten op een eenvoudige manier hun informatie kunnen inzien en ophalen. Daarnaast is het mogelijk de data in te laden in een GIS viewer. Hiervoor is een [kant-en-klaar qgis project](https://github.com/VNG-Realisatie/docs.dego/blob/main/docs/_assets/DEGO-2023-08.qgz) beschikbaar.
+We verzamelen en toetsen data en zorgen dat gemeenten een start kunnen maken in de uitvoering van hun plannen en zelf een goede afweging kunnen maken. Om deze data te ontsluiten bieden we [kaartlagen](https://dego.vng.nl/) aan waar gemeenten op een eenvoudige manier hun informatie kunnen inzien en ophalen. 
 
 ### Feedback en vragen
 Voor vragen of reacties zijn wij bereikbaar via email op <a href="mailto:DEGO@vng.nl">DEGO@vng.nl</a>  of telefonisch via ons klant contact centrum met telefoonnummer 070-3738393 onder vermelding van DEGO.
