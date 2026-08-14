@@ -47,9 +47,18 @@ _Bron: BAG_<br/>
 _Update: jaarlijks_<br/>
 _Niveau: pand_<br/>
 
+### Woonfunctie
+De woonfunctie geeft een indicatie van het woninggebruik in een object. We onderscheiden de volgende categorieën: 
+- objecten met alleen een woonfunctie
+-	objecten met gedeeltelijke woonfunctie
+-	objecten zonder woonfunctie.
+
+_Bron: BAG_<br/>
+_Update: jaarlijks_<br/>
+_Niveau: pand_<br/>
 
 ### Eigendomssituatie
-De kaartlaag eigendomssituatie geeft inzicht in het aandeel woningen in een gebied dat een koopwoning of huurwoning betreft. Dit kan gemeenten helpen om inzicht te krijgen in welke partijen er bij de plannen betrokken moeten worden. Zijn het wooncorporaties, particulieren verhuurders of eigenaar-bewoners waar een gemeenten in een buurt mee te maken heeft. Door op het gebied te klikken is ook te zien welk percentage van de woningen in eigendom is van een woningcorporatie (let op: dit is niet hetzelfde als het aantal sociale huurwoningen, omdat er alleen is vastgesteld wie de eigenaar is en er niet is gekeken naar de hoogte van de huurprijs).
+De kaartlaag "eigendomssituatie" geeft inzicht in het aandeel woningen in een gebied dat een koopwoning of huurwoning betreft. Dit kan gemeenten helpen om inzicht te krijgen in welke partijen er bij de plannen betrokken moeten worden. Zijn het wooncorporaties, particuliere verhuurders of eigenaar-bewoners waar een gemeenten in een buurt mee te maken heeft. Door op het gebied te klikken is ook te zien welk percentage van de woningen in eigendom is van een woningcorporatie (let op: dit is niet hetzelfde als het aantal sociale huurwoningen, omdat er alleen is vastgesteld wie de eigenaar is en er niet is gekeken naar de hoogte van de huurprijs).
 
 De volgende weergaven kunnen worden gekozen:
 -	Percentage koopwoningen
@@ -60,13 +69,5 @@ _Bron: CBS, Kerncijfers naar wijken en buurten_<br/>
 _Update: jaarlijks_<br/>
 _Niveau: gemeente, wijk, buurt, postcode – 6_<br/>
 
-### 5.	Woonfunctie
-De woonfunctie geeft een indicatie van het woninggebruik in een object. We onderscheiden de volgende categorieën: 
-- objecten met alleen een woonfunctie
--	objecten met gedeeltelijke woonfunctie
--	objecten zonder woonfunctie.
 
-_Bron: BAG_<br/>
-_Update: jaarlijks_<br/>
-_Niveau: pand_<br/>
 
