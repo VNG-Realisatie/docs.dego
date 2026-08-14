@@ -1,33 +1,30 @@
 ---
 title: "Bewoners"
 layout: thema-page-with-side-nav
+datum: 21-07-2026
 ---
 
 ## Bewoners
 
-De sociale kenmerken van een buurt kunnen invloed hebben op de timing en aanpak van aardgasvrije maatregelen, bijvoorbeeld doordat stijgende prijzen groter effect kunnen hebben op huishoudens met lagere inkomens, terwijl huishoudens hogere inkomens mogelijk meer financiële ruimte hebben om te investeren. Er zijn ook enkele kaarten opgenomen rondom energie armoede. 
+De sociale kenmerken van een buurt kunnen invloed hebben op de timing en aanpak van aardgasvrije maatregelen. Bijvoorbeeld doordat stijgende prijzen een groter effect kunnen hebben op huishoudens met lagere inkomens, terwijl huishoudens met hogere inkomens mogelijk meer financiële ruimte hebben om te investeren. Er zijn ook enkele kaarten opgenomen rondom energie armoede. 
 
-### 1.	Percentage huishoudens die behoren tot de landelijke 20% huishoudens met hoogste inkomen
+### Sociale Karakteristieken
 
-Het gemiddelde inkomen zegt iets over de bestedingsruimte die mensen hebben en geeft daarmee een eerste indicatie van de financiële gevolgen van de energietransitie voor deze mensen. Een lager gemiddeld inkomen betekent vaak minder bestedingsruimte, maar betekent ook dat een stijging van de (fossiele) energieprijzen meer impact heeft. Een hoger gemiddeld inkomen betekent dat de mensen die graag iets willen doen aan de energietransitie, daar waarschijnlijk ook de financiële ruimte voor hebben. Moet uiteraard samen met andere indicatoren bekeken worden, met name of er sprake is van huur of koop.
+#### Percentage huishoudens die behoren tot de landelijke 20% huishoudens met hoogste inkomen
+Het gemiddelde inkomen zegt iets over de bestedingsruimte die mensen hebben en geeft daarmee een eerste indicatie van de financiële gevolgen van de energietransitie voor deze mensen. Een lager gemiddeld inkomen betekent vaak minder bestedingsruimte, maar betekent ook dat een stijging van de (fossiele) energieprijzen meer impact heeft. Een hoger gemiddeld inkomen betekent dat de mensen die graag iets willen doen aan de energietransitie, daar waarschijnlijk ook de financiële ruimte voor hebben. Uiteraard moet samen met andere indicatoren bekeken worden, met name of er sprake is van huur of koop.
 
 _Bron: CBS, Kerncijfers wijken en buurten_<br/>
 _Update: jaarlijks_<br/>
 _Niveau: buurt, wijk, gemeente_<br/>
 
-### 2.	Percentage huishoudens die behoren tot de landelijke 40% huishoudens met hoogste inkomen
-
+####	Percentage huishoudens die behoren tot de landelijke 40% huishoudens met hoogste inkomen
 Het percentage lage inkomens geeft een eerste indicatie van de aanwezigheid van armoede in een wijk. Deze indicatoren moet ook bekeken worden met andere thema’s, bij voorkeur naar het inkomen en aardgas verbruik, omdat dan zichtbaar wordt waar mensen in de knel dreigen te komen door hoge gasrekeningen.
 
 _Bron: CBS, Kerncijfers wijken en buurten 2019_<br/>
 _Update: jaarlijks_<br/>
 _Niveau: buurt, wijk, gemeente_<br/>
 
-### 3.	Hoge Energiequote (HEq)
-### 4.	Laag inkomen, hoge energierekening (LIHE)
-### 5.	Laag inkomen, lage energiekwaliteit (LILEK)
-### 6.	Lage energiekwaliteit, weinig investeringsmogelijkheden (LEKWI)
-### 7.	Laag inkomen en hoge energierekening en/of lage energie kwaliteit (LIHE en/of LILEK)
+### Energiearmoede
 
 Energiearmoede gaat over huishoudens die te maken hebben met een laag inkomen in combinatie met een te hoge energierekening en/of een woning van (zeer) slechte energetische kwaliteit. In 2022 heeft het Ministerie van Economische Zaken en Klimaat (EZK) het CBS en TNO gevraagd om een Monitor Energiearmoede te ontwikkelen. In deze monitor wordt onderscheid gemaakt tussen:
 
@@ -45,7 +42,7 @@ Deze indicator geeft weer hoeveel procent van de huishoudens kwetsbaar zijn omda
 
 -	**LEKWI** - Lage energetische kwaliteit, weinig investeringsmogelijkheden; Huishoudens met een woning van lage energetische kwaliteit en met weinig investeringsmogelijkheden om te kunnen verduurzamen.
 
-Deze indicator geeft weer hoeveel procent van de huishoudens in een woning met een lage energetische kwaliteit wonen, en weinig investeringsmogelijkheden hebben, waardoor ze niet in staat zijn zelf de woning te verduurzamen. Het gaat hier zowel om huurders (die doorgaans niet zelf hun woning kunnen verduurzamen) als om eigenaar-bewoners met onvoldoende financiële capaciteit om zelf te verduurzamen.
+Deze indicator geeft weer hoeveel procent van de huishoudens in een woning met een lage energetische kwaliteit wonen en weinig investeringsmogelijkheden hebben, waardoor ze niet in staat zijn zelf de woning te verduurzamen. Het gaat hier zowel om huurders (die doorgaans niet zelf hun woning kunnen verduurzamen) als om eigenaar-bewoners met onvoldoende financiële capaciteit om zelf te verduurzamen.
 
 -	**LIHELEK** - Laag inkomen, hoge energierekening of lage energetische kwaliteit; Huishoudens met een laag inkomen en een hoge energierekening en/of met een woning van lage energetische kwaliteit. Een combinatie van LIHE en LILEK. 
 
@@ -58,6 +55,6 @@ Er wordt in de kaartdata onderscheid gemaakt tussen:
 
 
 _Bron: CBS, Monitor Energie Armoede_<br/>
-_Update: eenmalig (maatwerk) 2021_<br/>
+_Update: jaarlijks_<br/>
 _Niveau: buurt, wijk, gemeente_<br/> 
 
