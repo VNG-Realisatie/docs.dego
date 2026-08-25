@@ -19,6 +19,9 @@ nav:
         path: /themas/vleermuizen_en_isolatie
       - title: Warmteprogramma
         path: /themas/warmteprogramma
+      - title: Veelgestelde vragen
+        path: /faq
+      
 
 apinav:
   - title: Data Energie Gebouwde Omgeving (DEGO)
@@ -29,6 +32,8 @@ apinav:
         path: /themas/vleermuizen_en_isolatie
       - title: Warmteprogramma
         path: /themas/warmteprogramma
+      - title: Veelgestelde vragen
+        path: /faq
 
 apisubnav: 
   - subnav:
@@ -42,6 +47,8 @@ themanav:
         path: /themas/vleermuizen_en_isolatie
       - title: Warmteprogramma
         path: /themas/warmteprogramma
+      - title: Veelgestelde vragen
+        path: /faq
 
         
 themasubnav:
