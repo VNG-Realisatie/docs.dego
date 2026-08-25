@@ -1,6 +1,6 @@
 ---
 title: "Referentieverbruik Warmte Woningen"
-layout: thema-page-with-side-nav
+layout: api-page-with-side-nav
 ---
 ## Referentieverbruik woningen II
 
