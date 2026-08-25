@@ -1,6 +1,6 @@
 ---
 title: "Warmteprogramma"
-layout: thema-page-with-side-nav
+layout: api-page-with-side-nav
 datum: 21-07-2026
 ---
 # Warmteprogramma
