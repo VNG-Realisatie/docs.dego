@@ -19,8 +19,7 @@ nav:
         path: /themas/vleermuizen_en_isolatie
       - title: Warmteprogramma
         path: /themas/warmteprogramma
-      - title: Veelgestelde vragen
-        path: /faq
+
       
 
 apinav:
@@ -32,8 +31,6 @@ apinav:
         path: /themas/vleermuizen_en_isolatie
       - title: Warmteprogramma
         path: /themas/warmteprogramma
-      - title: Veelgestelde vragen
-        path: /faq
 
 apisubnav: 
   - subnav:
@@ -47,8 +44,6 @@ themanav:
         path: /themas/vleermuizen_en_isolatie
       - title: Warmteprogramma
         path: /themas/warmteprogramma
-      - title: Veelgestelde vragen
-        path: /faq
 
         
 themasubnav:
@@ -67,9 +62,8 @@ themasubnav:
         
 themafooter:
   - subnav:
-      - title:  
-        path:   
-
+      - title: Veelgestelde vragen
+        path: /faq
 
 plugins:
   - jekyll-redirect-from
