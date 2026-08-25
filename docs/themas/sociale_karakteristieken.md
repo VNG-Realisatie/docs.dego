@@ -1,6 +1,6 @@
 ---
 title: "Sociale karakteristieken"
-layout: thema-page-with-side-nav
+layout: api-page-with-side-nav
 ---
 ## Sociale karakteristieken
 
