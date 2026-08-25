@@ -6,6 +6,10 @@ datum: 25-08-2026
 
 ## Veelgestelde vragen
 
+Soms gaat er wel eens iets niet zoals je verwacht. Kijk bij de onderstaande vragen of het antwoord of oplossing beschreven staat. Staat je vraag of oplossing er niet bij? Neem dan contact op met Dego@vng.nl.
+
+---
+
 ### Ik heb een account aangemaakt maar kan nog steeds de afgesloten kaartlagen niet inzien
 Het aangemaakt account moet nog gekoppeld worden aan DEGO. Neem hiervoor contact op met Dego@vng.nl, bij voorkeur vanaf het email adres waarmee het account is aangemaakt.
 
