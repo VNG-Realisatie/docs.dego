@@ -1,5 +1,5 @@
 ---
-layout: thema-page-with-side-nav
+layout: api-page-with-side-nav
 title: Themas Data Energie Gebouwde Omgeving (DEGO)
 ---
 # Themas Datavoorziening Energietransitie Gebouwde Omgeving (DEGO)
