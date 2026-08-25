@@ -62,8 +62,15 @@ themasubnav:
         
 themafooter:
   - subnav:
+      - title:
+        path:
+
+navfooter:
+  - subnav:
       - title: Veelgestelde vragen
         path: /faq
+
+
 
 plugins:
   - jekyll-redirect-from
