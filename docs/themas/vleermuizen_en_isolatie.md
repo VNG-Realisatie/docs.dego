@@ -34,12 +34,6 @@ De tijdelijke regeling is enkel van toepassing op stedelijk gebied. Provincies g
 ### Verantwoording 
 Het initiële concept voor deze kaartlagen komt van koplopergemeente Maasdriel. Het ontwikkelen en testen is uitgevoerd door VNG Realisatie, gemeente Maasdriel, gemeente West Maas en Waal, Zevenaar, Bloemendaal, Huizen, Alkmaar, Landsmeer,  Amstelveen, Borger-Odoorn.
 
-Bronnen bij het ontwikkelen van de kaartlagen zijn geweest: de concept en definitieve handleiding, Vragen van woningeigenaren,  Nationaal Isolatieprogramma,  Home,  [Volkshuisvesting Nederland](https://www.volkshuisvestingnederland.nl/onderwerpen/nationaal-isolatieprogramma/landelijke-aanpak-natuurvriendelijk-isoleren/veelgestelde-vragen/vragen-van-woningeigenaren).
-
-De regeling zelf vind je hier: Staatscourant 2023, 32727 of [Officiële bekendmakingen op overheid.nl](https://zoek.officielebekendmakingen.nl/stcrt-2023-32727.html)
-
-De recente wijziging in deze vind je: Staatscourant 2024, 20409 of [Officiële bekendmakingen op overheid.nl](https://zoek.officielebekendmakingen.nl/stcrt-2024-20409.html)
-
 Er is gekozen om CBS woonkernen en een bijbehorende bufferzones, rekening houdend met een uitvlieg naar buitengebied niet te visualiseren omdat deze in de definitieve handleiding niet langer genoemd word als een criterium voor optimale plaatsing van vpv’s.
 
 De visualisatie van koopwoningen in de kaartlaag compensatiegebieden is op het oog ontworpen. Overduidelijke gebieden met veel huurwoningen willen we uitsluiten. >80% koopwoningen selecteert de gebieden waar er dus maar 20% huur is. Daarbinnen werken we met gradaties van 80-100 % om daarbinnen te schakeren. Naar aanleiding van de blinde tests met gemeenten is deze norm gehandhaafd.
