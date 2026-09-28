@@ -58,6 +58,8 @@ themasubnav:
         path: /themas/bewoners
       - title: Koppelkansen
         path: /themas/koppelkansen
+      - title: Utiliteitsbouw
+        path: /themas/utiliteitsbouw
 
         
 themafooter:
