@@ -33,6 +33,18 @@ _Bron: Kleinverbruik bestanden van alle netbeheerders_<br/>
 _Update: Jaarlijks_<br/>
 _Niveau: per postcode 6 gebied_<br/>
 
+#### Verwerking van kleinverbruikgegevens
+De bestanden van de energieleveranciers hebben verschillende structuren en bevatten overlappende postcodegebieden. Daarom moet de data eerst worden opgeschoond en geharmoniseerd voordat deze kan worden gebruikt.
+De belangrijkste bewerkingen zijn:
+-	Postcodes: Als alleen postcode_van bekend is, wordt deze ook als postcode_tot gebruikt. Duitse postcodes bij Enexis en Liander worden verwijderd; bij een combinatie van Nederlandse en Duitse postcodes wordt alleen de Nederlandse postcode gebruikt. 
+-	SJA: Decimale waarden worden afgerond naar beneden door alleen het gehele deel te behouden. 
+-	Kleine gebieden: Werkgebieden met minder dan één aansluiting per postcode worden verwijderd als ze geen overlap hebben met een significant gebied. 
+-	Overlappende gebieden: Bij overlap wordt een gebied met minder dan één aansluiting per postcode verwijderd. Bij gedeeltelijke overlap die niet betrouwbaar kan worden opgelost, wordt het minst significante gebied verwijderd. 
+-	Moeder- en kindgebieden: Gebieden die volledig binnen een groter gebied vallen, worden samengevoegd. De gegevens worden daarbij gecombineerd tot één moedergebied, met een nieuw gewogen gemiddelde. Ook worden de unieke leveranciersnamen samengevoegd. 
+
+
+Kortom: de data wordt eerst gestandaardiseerd, opgeschoond en ontdubbeld, waarna overlappende en geneste werkgebieden worden samengevoegd tot een zo betrouwbaar mogelijk eindresultaat.
+
 ### Gemiddeld verbruik per buurt, uitgesplitst naar huur en koop
 Binnen een wijk kunnen er grote verschillen zitten tussen de energieverbruiken van huur en koopwoningen. Deze kaartlaag toont een uitsplitsing naar huur en koopwoningen van het energieverbruik op buurtniveau. Als er grote verschillen in energieverbruik zijn tussen huur en koop, kan dit invloed hebben op de wijkaanpak.
 
