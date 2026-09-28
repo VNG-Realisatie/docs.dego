@@ -20,6 +20,8 @@ nav:
       - title: Warmteprogramma
         path: /themas/warmteprogramma
 
+      
+
 apinav:
   - title: Data Energie Gebouwde Omgeving (DEGO)
     subnav:
@@ -63,17 +65,23 @@ themasubnav:
         
 themafooter:
   - subnav:
-      - title:  
-        path:   
+      - title:
+        path:
+
+navfooter:
+  - subnav:
+      - title: Veelgestelde vragen
+        path: /faq
+
 
 
 plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
 
-remote_theme: vng-realisatie/jekyll-theme-vngrealisatie-kcdenm
+remote_theme: VNG-Realisatie/jekyll-theme-vngrealisatie-kcdenm
 
-github: vng-realisatie/docs.dego
+github: VNG-Realisatie/docs.dego
 
 theme: jekyll-theme-time-machine
 
