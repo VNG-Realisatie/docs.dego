@@ -34,7 +34,7 @@ Deze kaart  toont hoeveel geluid verschillende bronnen samen veroorzaken. Het ga
 _Bron: Atlas voor de leefomgeving RIVM_<br/>
 _Niveau: buurt, wijk, gemeente_<br/>
 
-### Fijnstof (PM 10)
+### Fijnstof (PM 10 / PM 2,5)
 Op deze kaart zie je hoeveel fijnstof er gemiddeld in de lucht zat in Nederland in 2019. Het gaat om PM10: deeltjes die kleiner zijn dan 10 micrometer. De andere kaartlaag gaat om PM2,5: deeltjes die kleiner zijn dan 2,5 micrometer. Hoe minder fijnstof hoe beter de luchtkwaliteit.
 
 _Bron: Atlas voor de leefomgeving RIVM_<br/>
