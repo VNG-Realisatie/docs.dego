@@ -21,7 +21,9 @@ TNO heeft met de verrijkte BAG2.0 1,2 miljoen panden gerekend tot de utiliteitsb
 
 ### Waar moet utiliteitsbouw aan voldoen?
 Er gelden verschillende verplichtingen voor utiliteitsgebouwen, afhankelijk van type gebouw en eigenaar. 
-1.	Energielabelplicht <br/>Vrijwel alle utiliteitsgebouwen moeten beschikken over een geldig energielabel bij verkoop, verhuur, oplevering van nieuwbouw en na een ingrijpende renovatie. Voor overheidsgebouwen geldt dat zij altijd een geldig energielabel moeten hebben. Meer informatie en uitzonderingen zie: [Verplicht energielabel voor utiliteitsgebouwen | RVO.nl](https://www.rvo.nl/onderwerpen/wetten-en-regels-gebouwen/energielabel-utiliteitsgebouwen)
+
+1.	Energielabelplicht<br/>
+Vrijwel alle utiliteitsgebouwen moeten beschikken over een geldig energielabel bij verkoop, verhuur, oplevering van nieuwbouw en na een ingrijpende renovatie. Voor overheidsgebouwen geldt dat zij altijd een geldig energielabel moeten hebben. Meer informatie en uitzonderingen zie: [Verplicht energielabel voor utiliteitsgebouwen RVO.nl](https://www.rvo.nl/onderwerpen/wetten-en-regels-gebouwen/energielabel-utiliteitsgebouwen)
 2.	Label C-verplichting voor kantoren<br/>
 Sinds 1 januari 2023 moeten de meeste kantoorgebouwen van minimaal 100 m² beschikken over minimaal energielabel C om als kantoor gebruikt te mogen worden. Er zijn enkele uitzonderingen, bijvoorbeeld voor kleine kantoorfuncties en bepaalde monumentale kantoren.
 3.	Energiebesparingsplicht<br/>
