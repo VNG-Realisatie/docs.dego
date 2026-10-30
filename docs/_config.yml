@@ -54,6 +54,8 @@ themasubnav:
         path: /themas/nutsvoorziening
       - title: Energie verbruik
         path: /themas/energie_verbruik
+      - title: Referentieverbruik Warmte
+        path: /themas/referentieverbruik
       - title: Bewoners
         path: /themas/bewoners
       - title: Koppelkansen
