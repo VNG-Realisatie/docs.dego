@@ -37,7 +37,7 @@ PBL heeft bij het rekenbestand een gebruikershandleiding aangeboden. Deze gebrui
 
 ### Waarom is deze data alleen beschikbaar na inloggen?
 
-De getoonde gegevens bevatten kenmerken op adres- en woningniveau, zoals bouwjaar, energielabel, eigendomscode en woningtype. Hoewel deze gegevens niet rechtstreeks herleidbaar zijn tot personen, kan de combinatie van verschillende kenmerken leiden tot een verhoogd privacyrisico. Daarom is ervoor gekozen de informatie uitsluitend beschikbaar te stellen aan geautoriseerde gebruikers binnen een beveiligde omgeving. Hiermee beperken we de privacy risico’s voor burgers en dragen we bij aan een privacy bewuste overheid. 
+De getoonde gegevens bevatten kenmerken op adres- en woningniveau, zoals bouwjaar, energielabel, eigendomscode en woningtype. Hoewel deze gegevens niet rechtstreeks herleidbaar zijn tot personen, kan de context van de verwerking hier wel toe gaan leiden. Daarom is ervoor gekozen de informatie uitsluitend beschikbaar te stellen aan geautoriseerde gebruikers binnen een beveiligde omgeving. Hiermee beperken we de privacy risico’s voor burgers en dragen we bij aan een privacy bewuste overheid.  
 
 
 ## Bron & auteurs
